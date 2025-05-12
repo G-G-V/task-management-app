@@ -1,0 +1,43 @@
+body {
+  /* background-color: #f8f9fa;
+  font-family: 'Segoe UI', sans-serif; */
+    background-color: #eaf4fc;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.card {
+  border-radius: 1rem;
+}
+
+.container {
+  max-width: 700px;
+}
+
+h2 {
+  /* color: #343a40; */
+   color: #003366;
+}
+
+.btn {
+  font-weight: 500;
+}
+
+.btn-primary,
+.btn-success {
+  border-radius: 20px;
+}
+
+.list-group-item {
+  border: none;
+}
+
+textarea.form-control {
+  resize: none;
+}
+
+
+
+
+
+
+
